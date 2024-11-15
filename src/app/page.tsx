@@ -1,21 +1,20 @@
 import Image from "next/image";
-// import Map from "../../components/Map";
 
 export default function(){
   return(
     <div>
  
 
-       <img src="/11.png" alt="you" className="hero-image"/>
-      <img src="/1.png" alt="you" className="hero-image"/>
-      <img src="/2.png" alt="you" className="hero-image"/>
-      <img src="/3.png" alt="you" className="hero-image"/>
-      <img src="/4.png" alt="you" className="hero-image"/>
-      <img src="/5.png" alt="you" className="hero-image"/>
-      <img src="/6.png" alt="you" className="hero-image"/>
-      <img src="/7.png" alt="you" className="hero-image"/>
-      <img src="/8.png" alt="you" className="hero-image"/>
-      <img src="/9.png" alt="you" className="hero-image"/>
+       <Image src="/11.png" alt="you" className="hero-image"/>
+      <Image src="/1.png" alt="you" className="hero-image"/>
+      <Image src="/2.png" alt="you" className="hero-image"/>
+      <Image src="/3.png" alt="you" className="hero-image"/>
+      <Image src="/4.png" alt="you" className="hero-image"/>
+      <Image src="/5.png" alt="you" className="hero-image"/>
+      <Image src="/6.png" alt="you" className="hero-image"/>
+      <Image src="/7.png" alt="you" className="hero-image"/>
+      <Image src="/8.png" alt="you" className="hero-image"/>
+      <Image src="/9.png" alt="you" className="hero-image"/>
       
 {/* <div>      <Map address="1600 Amphitheatre Parkway, Mountain View, CA" />
 </div> */}
